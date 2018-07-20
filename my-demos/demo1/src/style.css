@@ -1,0 +1,11 @@
+@font-face{
+  font-family: "BebasNeue";
+  src: url("./BebasNeue.eot") format('eot'),
+       url('./BebasNeue.woff') format('woff')
+}
+
+.hello {
+    color: red;
+    background: url("./icon.jpg");
+    font-family: 'BebasNeue'
+  }
